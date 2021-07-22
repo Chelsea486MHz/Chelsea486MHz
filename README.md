@@ -1,16 +1,16 @@
-### Hi there 👋
+# 🎶 Hello GitHub 🎶
+My legal name is Sasha but around these parts I go by a way cooler username 😎
 
-<!--
-**Chelsea486MHz/Chelsea486MHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things I can say about me:
+- I'm 21y old, and live in France.
+- I studied chemistry ⚗ and now work in infosec ⚔🖥⚔.
+- I play the guitar 🎸 (like, a lot)
+- I skate 🛹 to work!
+- I dye my hair crazy colors 🌈 because I'm a raging homosexual
 
-Here are some ideas to get you started:
+### If you'd like to reach me:
+- <sashamurgia@protonmail.ch>
+- <sasha.murgia@viveris.fr>
+- [@chelsea486mhz](https://www.instagram.com/chelsea486mhz) on Instagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chelsea486MHz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
