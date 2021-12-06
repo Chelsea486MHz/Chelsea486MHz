@@ -2,7 +2,7 @@
 My legal name is Sasha but around these parts I go by a way cooler username 😎
 
 ### Things I can say about me:
-- I'm 21y old, and live in France.
+- I'm 22y old, and live in France.
 - I studied chemistry ⚗ and now work in infosec ⚔🖥⚔.
 - I play the guitar 🎸 (like, a lot)
 - I skate 🛹 to work!
