@@ -9,7 +9,7 @@ My legal name is Sasha but around these parts I go by a way cooler username 😎
 - I dye my hair crazy colors 🌈 because I'm a raging homosexual
 
 ### If you'd like to reach me:
-- <sashamurgia@protonmail.ch>
+- <chelsea486mhz@protonmail.com>
 - <sasha.murgia@viveris.fr>
 - [@chelsea486mhz](https://www.instagram.com/chelsea486mhz) on Instagram
 
