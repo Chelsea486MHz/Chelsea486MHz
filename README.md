@@ -1,5 +1,5 @@
 # 🎶 GOOOOOOD MORNING GITHUB 🎶
-My legal name is Sasha but around these parts I go by a way cooler username 😎
+I'm so glad you're on my profile I really like showing off my stuff 😎
 
 ### Things I can say about me:
 - I'm 22y old, and live in France.
@@ -9,8 +9,6 @@ My legal name is Sasha but around these parts I go by a way cooler username 😎
 - I dye my hair crazy colors 🌈 because I'm a raging homosexual
 
 ### If you'd like to reach me:
-- <chelsea486mhz@protonmail.com>
-- <sasha.murgia@viveris.fr>
-- [@chelsea486mhz](https://www.instagram.com/chelsea486mhz) on Instagram
+- <mail@chelsea486mhz.fr>
 
-[![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chelsea486MHz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chelsea486MHz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
