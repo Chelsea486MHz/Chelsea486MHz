@@ -6,7 +6,7 @@ I'm so glad you're on my profile I really like showing off my stuff 😎
 - I studied chemistry ⚗ and now work in infosec ⚔🖥⚔.
 - I play the guitar 🎸 (like, a lot)
 - I skate 🛹 to work!
-- I dye my hair crazy colors 🌈 because I'm a raging homosexual
+- I dye my hair crazy colors 🌈
 
 ### If you'd like to reach me:
 - <mail@chelsea486mhz.fr>
