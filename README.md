@@ -12,11 +12,8 @@ I'm glad you're on my profile I really like showing off my stuff 😎
 ### Things you should check out
 
 - [The SENPAI MD website](https://senpaimd.org) where you can learn more about my molecular dynamics simulator
-
 - [My Twitter](https://twitter.com/Chelsea486MHz) where I sometimes shitpost
-
 - [My Twitch channel](https://www.twitch.tv/chelsea486mhz) where I stream hacking stuff and infosec in general
-
 - [My website](https://www.chelsea486mhz.fr) which is offline 50% of the time because the ongoing heatwaves make me shut down my servers.
 
 ### If you'd like to reach me:
