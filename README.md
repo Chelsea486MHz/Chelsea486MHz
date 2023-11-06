@@ -4,7 +4,7 @@ I'm glad you're on my profile I really like showing off my stuff 😎
 ### Things I can say about me:
 - I love fish
 - My favorite fish is the cownose ray
-- 
+
 ```
                        (\.-./)
                        /     \
