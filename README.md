@@ -2,12 +2,24 @@
 I'm glad you're on my profile I really like showing off my stuff 😎
 
 ### Things I can say about me:
-- I'm 23y old, and live in France.
-- I'm really into hacking old hardware
-- I studied both chemistry and computer science
-- I play the guitar 🎸
-- I skate 🛹 to work!
-- I dye my hair flashy colors 🌈
+- I love fish
+- My favorite fish is the cownose ray
+- 
+```
+                       (\.-./)
+                       /     \
+                     .'   :   '.
+                _.-'`     '     `'-._
+             .-'          :          '-.
+           ,'_.._         .         _.._',
+           '`    `'-.     '     .-'`    `'
+                     '.   :   .'
+                       \_. ._/
+                 \       |^|
+                  |      | ;
+                  \'.___.' /
+                   '-....-'  
+```
 
 ### Things you should check out
 
