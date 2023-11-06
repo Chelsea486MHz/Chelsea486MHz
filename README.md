@@ -1,25 +1,6 @@
 # 🎶 'sup peeps 🎶
-I'm glad you're on my profile I really like showing off my stuff 😎
-
-### Things I can say about me:
-- I love fish
-- My favorite fish is the cownose ray
-
-```
-                       (\.-./)
-                       /     \
-                     .'   :   '.
-                _.-'`     '     `'-._
-             .-'          :          '-.
-           ,'_.._         .         _.._',
-           '`    `'-.     '     .-'`    `'
-                     '.   :   .'
-                       \_. ._/
-                 \       |^|
-                  |      | ;
-                  \'.___.' /
-                   '-....-'  
-```
+I'm glad you're on my profile! Did you know I love everything related to fish? Except fishing and eating fish
+🦐🐡🐠🐟🐳🐋🦪🪼🐙🦑🦀🦞🐧🦭🐬🪸🦈
 
 ### Things you should check out
 
