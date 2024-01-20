@@ -8,6 +8,8 @@ I love cyberpunk litterature, fishkeeping, and post-rock music.
 
 I specialize in cloud/system security and web backend development.
 
+Author of the SENPAI newtonian molecular dynamics simulator, and its groundbreaking intermolecular potential reduction algorithm.
+
 [![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chelsea486MHz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,nodejs,docker,kubernetes,openstack,aws,nodejs&theme=dark)](https://skillicons.dev)
