@@ -10,6 +10,6 @@ I specialize in cloud/system security and web backend development.
 
 Author of the SENPAI newtonian molecular dynamics simulator, and its groundbreaking intermolecular potential reduction algorithm.
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,nodejs,docker,kubernetes,openstack,aws,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,docker,kubernetes,openstack,aws,nodejs&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,gitlab,prometheus,grafana,mysql,redis,nginx,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,gitlab,prometheus,grafana,mysql,redis,nginx&theme=dark)](https://skillicons.dev)
