@@ -4,9 +4,9 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1802320)
 [![PGP](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD)](https://chelsea486mhz.fr/pubkeys/chelsea486mhz-pgp.pub)
 
-I love cyberpunk litterature, fishkeeping, and post-rock music.
+I love fishkeeping and post-rock music.
 
-I specialize in cloud/system security and web backend development.
+I specialize in cloud/system security and DevOps.
 
 Author of the SENPAI newtonian molecular dynamics simulator, and its groundbreaking intermolecular potential reduction algorithm.
 
