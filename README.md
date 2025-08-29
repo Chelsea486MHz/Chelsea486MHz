@@ -6,7 +6,7 @@
 
 J'aime tout ce qui se rapporte aux animaux de la mer, et à la musique post-rock.
 
-Je mange du Kubernetes 8 heures par jour, appelle moi la Kubomancienne.
+J'ai une grande implication dans l'open-source. Je touche à tout. J'adore les thématiques de cybersécurité, en particulier.
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,docker,kubernetes,openstack,aws,nodejs&theme=dark)](https://skillicons.dev)
 
