@@ -8,6 +8,8 @@ I love just about anything related to aquatic life and post-rock music.
 
 I deeply care about open-source software and cybersecurity.
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,docker,kubernetes,openstack,aws,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,kafka,kubernetes,ansible,terraform&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,gitlab,prometheus,grafana,mysql,redis,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,postgres,bash,gitlab,grafana&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=redis,linux,docker,nginx&theme=dark)](https://skillicons.dev)
